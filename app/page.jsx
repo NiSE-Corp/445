@@ -274,14 +274,7 @@ export default function DefensiveDrivingSchool() {
                     website.
                   </span>
                 </li>
-                <li className='flex items-start space-x-2'>
-                  <CheckCircle className='w-5 h-5 text-green-500 mt-0.5 flex-shrink-0' />
-                  <span>
-                    Students referred to us by 5Virtual may be subject to an
-                    additional $15 fee during registration; this will be noted
-                    at the beginning of registration.
-                  </span>
-                </li>
+
                 <li className='flex items-start space-x-2'>
                   <CheckCircle className='w-5 h-5 text-green-500 mt-0.5 flex-shrink-0' />
                   <span>
