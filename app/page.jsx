@@ -279,7 +279,7 @@ export default function DefensiveDrivingSchool() {
                     For classroom courses, we charge a $15 door fee when making
                     your payment the day of the class. This fee is waived when
                     you prepay at the very latest the day before the class. Save
-                    money by calling us today at 623.231.2599.
+                    money by calling us today at 623-231-2599.
                   </span>
                 </li>
                 <li className='flex items-start space-x-2'>
