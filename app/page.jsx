@@ -134,10 +134,7 @@ export default function DefensiveDrivingSchool() {
                 We take the hassle out of the tedious, time consuming learning.
               </h3>
               <p className='text-gray-600'>
-                Our online course is convenient and can be taken from anywhere.
-                You can complete the course at your own pace and on your own
-                schedule. The course is available 24/7 and you can start
-                immediately.
+                We take the hassle and tedium out of traffic safety education.
               </p>
             </div>
             <div className='text-center'>
@@ -149,9 +146,8 @@ export default function DefensiveDrivingSchool() {
                 that will work for you.
               </h3>
               <p className='text-gray-600'>
-                We offer both online and classroom courses to fit your schedule
-                and learning preferences. Our experienced instructors provide
-                comprehensive defensive driving education.
+                Whether you prefer learning in a classroom setting or online, we
+                have an option that will work for you.
               </p>
             </div>
             <div className='text-center'>
@@ -162,8 +158,10 @@ export default function DefensiveDrivingSchool() {
                 Have a certificate!
               </h3>
               <p className='text-gray-600'>
-                Our friendly customer service is on standby to help you with any
-                questions or concerns you may have about the course.
+                Get your certificate immediately." Then let's change the body of
+                that little blurb to read: "No waiting on support staff to get
+                your certificate to you—upon successful completion of the
+                course, your certificate is automatically emailed to you.
               </p>
             </div>
           </div>
