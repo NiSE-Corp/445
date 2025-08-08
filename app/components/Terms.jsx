@@ -3,12 +3,12 @@
 import { useEffect, useState } from 'react';
 
 const GETTERMS_IDS = {
-  privacy: 'Om5SL',
-  cookies: 'Om5SL',
-  'acceptable-use': 'Om5SL',
-  return: 'Om5SL',
-  'app-privacy': 'Om5SL',
-  'terms-of-service': 'Om5SL',
+  privacy: 'CTJZo',
+  cookies: 'CTJZo',
+  'acceptable-use': 'CTJZo',
+  return: 'CTJZo',
+  'app-privacy': 'CTJZo',
+  'terms-of-service': 'CTJZo',
 };
 
 const GetTermsEmbed = ({ documentType = 'privacy', onLoadComplete }) => {
